@@ -8,7 +8,7 @@ Below you can find all the frequently asked questions of Insane Vaults. If your 
 Here are all the frequently asked questions from Insane Vaults.
 <br>
 
-* **`How can i make suggestions?`**
+* **`How can I make suggestions?`**
   You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
 * **`Can I use custom model data items?`** 
   Yes, you can use custom model data items and item damage values in all areas of Insane Vaults
@@ -20,4 +20,4 @@ Here are all the frequently asked questions from Insane Vaults.
   You can for now only add a maximum of 10 vault types
 * **`Can i migrate storages from Player Vaults, Minepacks, Cosmic Vaults, Ultra Backpacks and Backpack?`**
   Yes, you can migrate storages from all those plugins
-  If you wish to have to have import support for a not listed plugin, just let us know
+  If you wish to have the ability to import storages for a not listed plugin, just let us know
