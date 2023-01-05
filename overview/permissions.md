@@ -35,7 +35,7 @@ Here is a list of all the permissions that can be used
 * `insanevaults.manageVaults.lockState.view`
   Be able to view the current lock state of vaults
 * `insanevaults.manageVaukts.lockState.manage`
-  Be able to change the current lock state of vaults
+  Be able to change the current lock state of vaults which is not your own vault
 * `insanevaults.manageVaults.lockState.bypass`
   Be able to bypass the lock state which can usually hold
   you back from depositing or withdrawing items
