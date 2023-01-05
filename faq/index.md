@@ -9,7 +9,7 @@ Here are all the frequently asked questions from Insane Vaults.
 <br>
 
 * **`How can I make suggestions?`**
-  You can make suggestions at our [Discord Server] (https://discord.gg/3JuHDm8s)
+  You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
 * **`Can I use custom model data items?`** 
   Yes, you can use custom model data items and item damage values in all areas of Insane Vaults
 * **`Does it support offline-mode?`** 
