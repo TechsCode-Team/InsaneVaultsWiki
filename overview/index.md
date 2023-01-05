@@ -8,6 +8,7 @@ You can communicate with our support team by joining our **[Discord](https://dis
 
 ## What can you find on the wiki?
 - [Commands](./overview/commands) - The list of commands
+- [Permissions](./overview/permissions) - The list of permissions
 - [Placeholders](./overview/placeholders) - The list of placeholders
 - [Installation Guide](./installation) - A quick guide on how to install Insane Vaults
 - [Features](./features) - A list with all the features of Insane Vaults
