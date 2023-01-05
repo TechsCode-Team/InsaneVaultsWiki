@@ -2,7 +2,7 @@
 Here is a list of all the permissions that can be used
 <br>
 
-* `ultraeconomy.admin`
+* `insanevaults.admin`
   The main permission of Insane Vaults
 * `insanevaults.command.vaults`
   Be able to use `/Vaults`
