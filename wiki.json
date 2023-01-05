@@ -1,0 +1,109 @@
+{
+  "overview": {
+    "iconType": "fa-solid",
+    "icon":"map",
+    "title":"Overview",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "commands": {
+        "title":"Commands",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "placeholders": {
+        "title":"Placeholders",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
+  "installation": {
+    "iconType": "fa-solid",
+    "icon":"tasks",
+    "title":"Installation",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "server": {
+        "title":"Server",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "proxy": {
+        "title":"Proxy",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "language": {
+        "title":"Language",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "import": {
+        "title":"Import",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "troubleshooting": {
+        "title":"Troubleshooting",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
+  "features": {
+    "iconType": "fa-solid",
+    "icon":"info",
+    "title":"Features",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "vaultextendsinventory": {
+        "title":"Vault Extends Inventory",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "communityvault": {
+        "title":"Community Vault",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "vaultpurge": {
+        "title":"Purging Vaults",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "customcommandaliases": {
+        "title":"Custom Command Aliases",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "vaultmarketplace": {
+        "title":"Vault Marketplace",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
+  "faq": {
+    "iconType": "fa-solid",
+    "icon":"question",
+    "title":"FAQ",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  },
+  "api": {
+    "iconType": "fa-solid",
+    "icon":"code",
+    "title":"API",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  }
+}
