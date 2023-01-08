@@ -14,8 +14,8 @@ While your server is starting, look at the console for any possible [ERROR] mess
 You should now be able to do use the main command to open the main Admin GUI
 
 ## Main Command
-**Command: ** `/InsaneVaults`
-**Alias: ** `/iv` and `/ivaults` 
+**Command:** `/InsaneVaults`
+**Alias:** `/iv` and `/ivaults` 
 
 
 If you see a gui, that means you are good to go!
