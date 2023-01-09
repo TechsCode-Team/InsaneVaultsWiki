@@ -12,9 +12,9 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Returns the VaultType name of the provided vault of the user
 * `%ivaults_vault_<VaultName>_sharedAccesses%`
   Returns the shared accesses amount of the provided vault of the user
-* `%ivaults_vault_<VaultName>_founder_name>%`
+* `%ivaults_vault_<VaultName>_founder_name%`
   Returns the founder name of the provided vault the user is holding
-* `%ivaults_vault_<VaultName>_founder_uuid>%`
+* `%ivaults_vault_<VaultName>_founder_uuid%`
   Returns the founder uuid of the provided vault the user is holding
 * `%ivaults_shared_vaults_amount%`
   Returns the amount of vaults which were shared with the parsed user
