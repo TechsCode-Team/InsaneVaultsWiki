@@ -26,7 +26,7 @@ Here is a list of all the commands that can be used.
   To 
 * `/ivc Settings VaultTypeFees OverdraftAction <FullLock | Delete)`
   To 
-<br>
+  
 * `/ivc Features CommunityVault Toggle`
   To 
 * `/ivc Features CommunityVault Manage Rename <Name>`
@@ -53,7 +53,7 @@ Here is a list of all the commands that can be used.
   To 
 * `/ivc Features VaultPurgeFeature PurgeInterval <Duration>`
   To 
-<br>
+
 * `/ivc Vaults CreateUnpaid <User> <VaultType>`
   To 
 * `/ivc Vaults VaultType list`
