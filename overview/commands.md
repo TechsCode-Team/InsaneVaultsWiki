@@ -4,7 +4,6 @@ Here is a list of all the commands that can be used.
 
 * `/iv`, `/ivaults`, `/InsaneVaults` 
   To open the Administrative GUI
-<br>
 * `/ivc Settings ChangeIconFee <Fee>`
   To 
 * `/ivc Settings ChangNameFee <Fee>`
