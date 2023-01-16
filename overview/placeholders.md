@@ -8,7 +8,7 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Returns the free slots amount of the provided vault of the user
 * `%ivaults_vault_<VaultName>_size_used%`
   Returns the used slots amount of the provided vault of the user
-* `%ivaults_vault_<VaultName>_vaultType%`
+* `%ivaults_vault_<VaultName>_type%`
   Returns the VaultType name of the provided vault of the user
 * `%ivaults_vault_<VaultName>_sharedAccesses%`
   Returns the shared accesses amount of the provided vault of the user
