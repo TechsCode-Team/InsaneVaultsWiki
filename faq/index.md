@@ -19,5 +19,5 @@ Here are all the frequently asked questions from Insane Vaults.
 * **`What is the maximum amount of vault types I can make?`**
   You can for now only add a maximum of 10 vault types
 * **`Can i migrate storages from Player Vaults?`**
-  Yes, you can migrate storages from Player Vaults easily with just a few clicks
+  Yes, you can migrate storages from Player Vaults easily with just a few clicks<br>
   If you wish to have the ability to import storages for a not listed plugin, just let us know
