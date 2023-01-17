@@ -25,7 +25,8 @@ Here is a list of all the commands that can be used.
 * `/ivc Settings PuttingCostsAndFeesOnGovernment <True | False>`
   To change if the costs and fees should be put on the UltraEconomy's Government Account
 * `/ivc Settings VaultTypeFees OverdraftAction <FullLock | Delete)`
-  To change the action which should be executed if the vault holder can't afford the recurring vault type cost<br>
+  To change the action which should be executed if the vault holder can't afford the recurring vault type cost
+  <br>
   
 * `/ivc Features CommunityVault Toggle`
   To toggle the entire community vault feature
@@ -52,7 +53,8 @@ Here is a list of all the commands that can be used.
 * `/ivc Features VaultPurgeFeature ForcePurge`
   To force purge all existing Vaults
 * `/ivc Features VaultPurgeFeature PurgeInterval <Duration>`
-  To define a specific duration after which all existing vaults are getting purged (Recurring Purge)<br>
+  To define a specific duration after which all existing vaults are getting purged (Recurring Purge)
+  <br>
 
 * `/ivc Vaults CreateUnpaid <User> <VaultType>`
   To create a vault for specified user without having to pay any costs for the creation
