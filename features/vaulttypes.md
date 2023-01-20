@@ -71,9 +71,6 @@ This will define the purchase Price of a Vault which is based on this Vault Type
 ![PurchasePrice](https://imgur.com/diWldUI.png)
 <br>
 
-`Note:` **You can make only 1 currency at the time wich hook with Vault.**
-<br>
-
 ## Custom Currency
 This will define the Currency which will be used to pay the Vault creation Cost and all fees which has to be paid. It can be edited by clicking the Emerald in the middle-right of the GUI (Called `Custom Currency`).<br><br>
 
