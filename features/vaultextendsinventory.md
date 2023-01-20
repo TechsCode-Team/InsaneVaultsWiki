@@ -1,5 +1,5 @@
 # Vault Extends Inventory Feature
-**Insane Vaults** also offers a feature to optionally let your Vault expand your full Inventory.
+**Insane Vaults** also offers a feature to optionally let your Vault extend your full Inventory.
 Items which you will pickup then if you Inventory is full, will automatically added to your preferred Vault.
 <br>
 
@@ -20,7 +20,7 @@ Now you can Press Q to toggle the status of this Feature
 <br>
 
 *Here's a shortend version of the Lose Money on Death settings:*
-`/iv >> Features >> Custom Command Aliases`
+`/iv >> Features >> Vault Extends Inventory`
 <br>
 
 `Note:` **The feature is disabled by default.**
