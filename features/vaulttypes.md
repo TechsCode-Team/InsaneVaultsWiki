@@ -12,7 +12,7 @@ Then click on the Minecart Chest on the right Side of the GUI. *(Called `Vault T
 <br>
 
 Then you get a list of created Vault Types (By default you will have the Vault Types below)
-You can reorder the Vault Types as well as edit them and create new Vault Types*
+You can reorder the Vault Types as well as edit them and create new Vault Types
 <br>
 
 ![ListView](https://imgur.com/bgzkBSQ.png)
