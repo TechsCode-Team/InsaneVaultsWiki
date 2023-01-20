@@ -40,6 +40,12 @@ Here is a list of all the permissions that can be used
   Vault limit
 * `insanevaults.vault.create.unpaid`
   Be able to create unpaid vaults for yourself and other users
+* `insanevaults.manageVaults.sizeLimit.bypass`
+  Be able to bypass the Size limit of Vaults
+* `insanevaults.manageVaults.fees.own.bypass`
+  Be able to bypass Fees while interacting with own Vaults
+* `insanevaults.manageVaults.fees.others.bypass`
+  Be able to bypass Fees while interacting with Vaults from other Users
 * `insanevaults.manageVaults.viewMoreVaultInformation`
   Be able to view more detailed information about the vault
   (When the vault was created and last time accessed)
