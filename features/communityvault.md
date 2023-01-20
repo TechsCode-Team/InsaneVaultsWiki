@@ -1,0 +1,7 @@
+(https://imgur.com/2DWEZ9L.png)
+(https://imgur.com/wxbmG53.png)
+(https://imgur.com/oF9sI5B.png)
+(https://imgur.com/ySCCZ3P.png)
+(https://imgur.com/gQIAr8w.png)
+(https://imgur.com/VdWQedq.png)
+(https://imgur.com/q0cmHf1.png)
