@@ -11,6 +11,7 @@ Then click on the Stone Pickaxe in the middle of the GUI. *(Called `Features`)*
 <br>
 
 Then hovering over the Command Block in the middle of the GUI. *(Called `Custom Command Aliases`)*
+<br>
 ![Setting](https://imgur.com/4SShu4v.png)
 <br>
 
