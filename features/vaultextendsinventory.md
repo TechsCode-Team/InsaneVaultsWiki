@@ -32,7 +32,7 @@ User who have set a Vault as preferred Vault to customize the Extending Inventor
 <br>
 
 - `Toggle`
-- `Blacklisting or Whitelisting to be picked up Items`
+- `Item Restriction`
 <br>
 
 ## Toggle
@@ -42,7 +42,7 @@ If this Feature was activated serverwide from an Administrator, Users can choose
 ![Toggle](https://imgur.com/L2G9pEJ.png)
 <br>
 
-## Item Restrictions
+## Item Restriction
 Users can define Items which should be picked up by Blacklisting Specific Items which shouldn't be picked up or Whitelistling Items
 if only a few Items should be picked up by the Vault Extends Inventory Feature<br>
 
