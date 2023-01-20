@@ -19,7 +19,7 @@ Then hovering over the Minecart Chest on the right side of the GUI. *(Called `Va
 Now you can Press Q to toggle the status of this Feature
 <br>
 
-*Here's a shortend version of the Lose Money on Death settings:*
+*Here's a shortend version of the Vault Extends Inventory Settings:*
 `/iv >> Features >> Vault Extends Inventory`
 <br>
 
