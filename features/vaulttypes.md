@@ -18,7 +18,7 @@ You can reorder the Vault Types as well as edit them and create new Vault Types*
 ![ListView](https://imgur.com/bgzkBSQ.png)
 ![ReorderList](https://imgur.com/7nlcnHq.png)
 
-*Here's a shortend version of the Lose Money on Death settings:*
+*Here's a shortend version of the Vault Types Configuration:*
 `/iv >> Vault Types`
 
 <br>
