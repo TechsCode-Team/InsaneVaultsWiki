@@ -21,6 +21,11 @@ Here is a list of all the permissions that can be used
   Be able to manage Vault Types through the Admin GUI
 * `insanevaults.command.vaults`
   Be able to use `/Vaults`
+* `insanevaults.command.vaults.user`
+  Be able to use `/Vaults <User>` to open
+  the UserView of the provided User
+* `insanevaults.command.vaultQuickAccess`
+  Be able to use the QuickAccessCommand (Default: `/pv`)  
 * `insanevaults.vault.interact.deposit.item`
   Be able to deposit items to vaults
 * `insanevaults.vault.interact.withdraw.item`
