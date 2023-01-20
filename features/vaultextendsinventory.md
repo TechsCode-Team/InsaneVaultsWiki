@@ -43,9 +43,8 @@ If this Feature was activated serverwide from an Administrator, Users can choose
 <br>
 
 ## Item Restriction
-Users can define Items which should be picked up by Blacklisting Specific Items which shouldn't be picked up or Whitelistling Items
-if only a few Items should be picked up by the Vault Extends Inventory Feature<br>
-
+Users can define Items which should be picked up by Blacklisting Specific Items which shouldn't be picked up or Whitelistling Items if only a few Items should be picked up by the Vault Extends Inventory Feature
+<br>
 ![ItemRestriction](https://imgur.com/QEVghrp.png)
 ![ItemRestriction2](https://imgur.com/EMp7ggU.png)
 <br>
