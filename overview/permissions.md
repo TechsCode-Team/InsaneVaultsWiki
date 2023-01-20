@@ -32,6 +32,12 @@ Here is a list of all the permissions that can be used
   Be able to withdraw items to vaults
 * `insanevaults.vault.create`
   Be able to purchase paid vaults
+* `insanevaults.vault.limit.[Number]`
+  Specify the amount of Vaults a User can hold
+  at the same time (Replace [Number] with e.g 5)
+* `insanevaults.vault.limit.bypass`
+  Be able to bypass the optionally configured
+  Vault limit
 * `insanevaults.vault.create.unpaid`
   Be able to create unpaid vaults for yourself and other users
 * `insanevaults.manageVaults.viewMoreVaultInformation`
