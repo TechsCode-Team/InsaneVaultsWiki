@@ -62,7 +62,7 @@
     "icon":"info",
     "title":"Features",
     "prev": { "url": "", "title": "" },
-    "next": { "url": "https://insanevaults.com/wiki/features/vaulttypes", "title": "Vault Types" },
+    "next": { "url": "", "title": "" },
     "subItems": {
       "vaulttypes": {
         "title":"Vault Types",
