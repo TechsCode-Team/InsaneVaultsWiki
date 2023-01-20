@@ -62,33 +62,33 @@
     "icon":"info",
     "title":"Features",
     "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "next": { "url": "https://insanevaults.com/wiki/features/vaulttypes", "title": "Vault Types" }
     "subItems": {
+      "vaulttypes": {
+        "title":"Vault Types",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "https://insanevaults.com/wiki/features/vaultextendsinventory", "title": "Vault Extends Inventory" }
+      },      
       "vaultextendsinventory": {
         "title":"Vault Extends Inventory",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "prev": { "url": "https://insanevaults.com/wiki/features/vaulttypes", "title": "Vault Types" },
+        "next": { "url": "https://insanevaults.com/wiki/features/communityvault", "title": "Community Vault" }
       },
       "communityvault": {
         "title":"Community Vault",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "prev": { "url": "https://insanevaults.com/wiki/features/vaultextendsinventory", "title": "Vault Extends Inventory" },
+        "next": { "url": "https://insanevaults.com/wiki/features/vaultpurge", "title": "Purging Vaults" }
       },
       "vaultpurge": {
         "title":"Purging Vaults",
-        "prev": { "url": "", "title": "" },
+        "prev": { "url": "https://insanevaults.com/wiki/features/communityvault", "title": "Community Vault" },
+        "next": { "url": "https://insanevaults.com/wiki/features/customcommandalias", "title": "Custom Command Alias" }
+      },
+      "customcommandalias": {
+        "title":"Custom Command Alias",
+        "prev": { "url": "https://insanevaults.com/wiki/features/vaultpurge", "title": "Puring Vaults" },
         "next": { "url": "", "title": "" }
       },
-      "customcommandaliases": {
-        "title":"Custom Command Aliases",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
-      },
-      "vaultmarketplace": {
-        "title":"Vault Marketplace",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
-      }
     }
   },
   "faq": {
