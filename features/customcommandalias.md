@@ -19,7 +19,7 @@ Now you can Press Q to toggle the status of this Feature or Left Click this Butt
 to set a custom Command alias
 <br>
 
-*Here's a shortend version of the Lose Money on Death settings:*
+*Here's a shortend version of the Custom Command Aliases Settings:*
 `/iv >> Features >> Custom Command Aliases`
 <br>
 
