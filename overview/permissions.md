@@ -2,8 +2,23 @@
 Here is a list of all the permissions that can be used
 <br>
 
-* `insanevaults.admin`
-  The main permission of Insane Vaults
+* `insanevaults.admin.openGUI`
+  Be able to open the Admin GUI
+* `insanevaults.admin.manageSettings`
+  Be able to manage the InsaneVaults Settings
+  through the Admin GUI
+* `insanevaults.admin.manageFeatures`
+  Be able to manage the Features through
+  the Admin GUI
+* `insanevaults.admin.manageUsers`
+  Be able to manage Users through the Admin GUI
+* `insanevaults.admin.manageVaults`
+  Be able to manage Vaults through the Admin GUI
+* `insanevaults.admin.manageImport`
+  Be able to manage Import Data from different
+  Plugins through the Admin GUI
+* `insanevaults.admin.manageVaultType`
+  Be able to manage Vault Types through the Admin GUI
 * `insanevaults.command.vaults`
   Be able to use `/Vaults`
 * `insanevaults.vault.interact.deposit.item`
