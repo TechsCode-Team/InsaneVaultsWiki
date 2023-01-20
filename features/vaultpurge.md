@@ -4,7 +4,7 @@ to force purge them and as well as only purge specific Items out of all existing
 <br>
 
 ## Start
-You will be able to manage the Community Vault from the main Plugin's GUI that you open by executing the command `/InsaneVaults`. (Or any Alias: `/iv`, `/ivaults`)
+You will be able to manage the Vault Purge Feature from the main Plugin's GUI that you open by executing the command `/InsaneVaults`. (Or any Alias: `/iv`, `/ivaults`)
 You can also edit this Feature by using the Commands (Check out Commands Tab)
 <br>
 
