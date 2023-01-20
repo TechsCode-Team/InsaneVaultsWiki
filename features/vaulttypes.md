@@ -11,6 +11,10 @@ You can also edit this Feature by using the Commands (Check out Commands Tab)
 Then click on the Minecart Chest on the right Side of the GUI. *(Called `Vault Types`)*
 <br>
 
+Then you get a list of created Vault Types (By default you will have the Vault Types below)
+You can reorder the Vault Types as well as edit them and create new Vault Types*
+<br>
+
 ![ListView](https://imgur.com/bgzkBSQ.png)
 ![ReorderList](https://imgur.com/7nlcnHq.png)
 
