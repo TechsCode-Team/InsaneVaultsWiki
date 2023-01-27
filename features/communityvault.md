@@ -17,10 +17,11 @@ Then click on the Enderchest in the top-right of the GUI *(Called `Community Vau
 <br>
 <br>
 
-![CustomCurrencyUecon](https://imgur.com/2DWEZ9L.png)
+![Manage](https://imgur.com/q0cmHf1.png)
 ![CustomCurrency](https://imgur.com/wxbmG53.png)
+![CustomCurrencyUecon](https://imgur.com/2DWEZ9L.png)
 ![Icon](https://imgur.com/oF9sI5B.png)
 ![IgnoreFees](https://imgur.com/ySCCZ3P.png)
 ![NewUserArrival](https://imgur.com/gQIAr8w.png)
 ![Rename](https://imgur.com/VdWQedq.png)
-![Manage](https://imgur.com/q0cmHf1.png)
+
