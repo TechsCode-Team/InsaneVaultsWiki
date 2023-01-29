@@ -83,7 +83,7 @@ Here is a list of all the permissions that can be used
 * `insanevaults.vault.interact.deposit.item`
   Be able to deposit items to vaults
 * `insanevaults.vault.interact.withdraw.item`
-  Be able to withdraw items to vaults
+  Be able to withdraw items from vaults
 * `insanevaults.vault.create`
   Be able to purchase paid vaults
 * `insanevaults.vault.limit.[Number]`
