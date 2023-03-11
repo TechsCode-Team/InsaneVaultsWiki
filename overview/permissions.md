@@ -77,7 +77,7 @@ Here is a list of all the permissions that can be used
 * `insanevaults.command.ivc.vaults.vaultType`
   Be able to create new and delete existing 
   Vault Types through command
-* `insanevaults.command.ivc.vaults,vaultType.manage`
+* `insanevaults.command.ivc.vaults.vaultType.manage`
   Be able to manage VaultTypes through the 
   `/ivc Vaults VaultType Manage <Option>` command
 * `insanevaults.vault.interact.deposit.item`
