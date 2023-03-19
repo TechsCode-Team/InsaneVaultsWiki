@@ -117,7 +117,7 @@ Here is a list of all the permissions that can be used
   Be able to bypass the user item blacklist at depositing items
 * `insanevaults.manageVaults.lockState.view`
   Be able to view the current lock state of vaults
-* `insanevaults.manageVaukts.lockState.manage`
+* `insanevaults.manageVaults.lockState.manage`
   Be able to change the current lock state of vaults which is not your own vault
 * `insanevaults.manageVaults.lockState.bypass`
   Be able to bypass the lock state which can usually hold
