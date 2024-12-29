@@ -2,6 +2,9 @@
 Here is a list of all the commands that can be used.
 <br>
 
+* `/vaults`, `/pv`
+  To open your Vaults menu (for players)
+
 * `/iv`, `/ivaults`, `/InsaneVaults` 
   To open the Administrative GUI
 * `/ivc Settings ChangeIconFee <Fee>`
