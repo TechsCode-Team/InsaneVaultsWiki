@@ -3,7 +3,7 @@
 Here is a list of all the permissions that can be used
 <br>
 
-## User Permissions:
+## User Permissions
 * `insanevaults.command.vaults`
   Be able to use **/Vaults**
 * `insanevaults.command.vaults.user`
@@ -24,7 +24,7 @@ Here is a list of all the permissions that can be used
   Be able to create unpaid vaults for yourself and other users
 <br>
 
-## Admin Permissions:
+## Admin Permissions
 * `insanevaults.admin.openGUI`
   Be able to open the Admin GUI
 * `insanevaults.admin.manageSettings`
